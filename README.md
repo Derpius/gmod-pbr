@@ -9,4 +9,4 @@ These have the name of the diffuse plus the suffix `_emission`.
 
 Normal maps are currently not planned, but I may work on them after a large batch of MRAOs are done.  
 
-Additionally transmission maps will have the suffix `_transmission`.  
+Additionally, transmission maps will have the suffix `_transmission`.  
