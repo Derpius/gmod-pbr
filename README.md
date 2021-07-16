@@ -1,4 +1,4 @@
-# GModDXR PBR Textures
+# GModDXR PBR Textures  
 PBR textures for GModDXR and any other project that may need them.  
 
 All MRAO textures are in the format R - Ambient Occlusion (currently unused), G - Roughness, B - Metalness.  
@@ -10,3 +10,10 @@ These have the name of the diffuse plus the suffix `_emission`.
 Normal maps are currently not planned, but I may work on them after a large batch of MRAOs are done.  
 
 Additionally, transmission maps will have the suffix `_transmission`.  
+
+## Showcase  
+**With MRAO Textures**  
+![With MRAO](https://github.com/Derpius/gmod-dxr-pbr/blob/master/Screenshots/example%20with.png?raw=true)  
+
+**Without MRAO Textures**  
+![Without MRAO](https://github.com/Derpius/gmod-dxr-pbr/blob/master/Screenshots/example%20without.png?raw=true)  
