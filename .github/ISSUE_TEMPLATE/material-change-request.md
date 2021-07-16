@@ -2,7 +2,7 @@
 name: Material Change Request
 about: Request an existing material's PBR maps be changed.
 title: ''
-labels: ''
+labels: change material
 assignees: ''
 
 ---
