@@ -17,7 +17,7 @@ Add the `vtf` branch as a submodule (or just clone it) to your addon's `material
 
 ## Showcase  
 **With MRAO Textures**  
-![With MRAO](https://github.com/Derpius/gmod-dxr-pbr/blob/master/Screenshots/example%20with.png?raw=true)  
+![With MRAO](https://github.com/Derpius/gmod-pbr/blob/master/Screenshots/example%20with.png?raw=true)  
 
 **Without MRAO Textures**  
-![Without MRAO](https://github.com/Derpius/gmod-dxr-pbr/blob/master/Screenshots/example%20without.png?raw=true)  
+![Without MRAO](https://github.com/Derpius/gmod-pbr/blob/master/Screenshots/example%20without.png?raw=true)  
